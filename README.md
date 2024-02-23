@@ -11,16 +11,9 @@ This repository contains a Python script for a Telegram bot (`telebot_3.py`) tha
 - **Command Handling**: Includes functionality to handle different commands sent to the Telegram bot.
 
 ## Setup and Configuration
-- **Config File**: Ensure all necessary configurations (API keys, database credentials) are set in a `config.py` file (not included for security reasons).
-- **Dependencies**: Install required Python packages listed in `requirements.txt` (if available).
+- **Config File**: Ensure all necessary configurations (API keys, database credentials) are set in a `config.py` file.
 
 ## Usage
 1. Configure the necessary API keys and database details in `config.py`.
 2. Run `telebot_3.py` to start the Telegram bot.
 3. Interact with the bot on Telegram using predefined commands.
-
-## Security Note
-This script requires sensitive information like API keys and database credentials. Ensure these are securely stored and not exposed in public repositories.
-
-## Disclaimer
-This bot is intended for educational and development purposes. Be mindful of the ethical implications and usage policies of both OpenAI and Telegram.
